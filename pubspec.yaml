@@ -14,7 +14,7 @@ dependencies:
   google_mlkit_face_detection:
     git:
       url: https://github.com/softwarezhou/google_ml_kit_flutter.git
-      ref: 80d4680b2e902e40187c60887c706963ae93a6fb
+      ref: a0b8fed5a10538167323942ec404d0bac1e92c85
       path: packages/google_mlkit_face_detection
 
 dev_dependencies:

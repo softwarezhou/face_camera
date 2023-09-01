@@ -11,10 +11,7 @@ dependencies:
   flutter:
     sdk: flutter
   camera: ^0.9.6
-  google_mlkit_face_detection:
-    git:
-      url: https://github.com/softwarezhou/google_ml_kit_flutter.git
-      ref: e8fdc30f2cf71bbe553bd2bf136b0de1b90811f8
+  google_mlkit_face_detection: ^0.0.2
 
 dev_dependencies:
   flutter_test:
